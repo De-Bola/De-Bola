@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📈 My GitHub Stats
+<!--📈 My GitHub Stats-->
 
 <!--<p align="center"> <img src="
  ![Bola's GitHub stats](https://github-readme-stats.vercel.app/api?username=De-Bola&show_icons=true&theme=tokyonight) <!--" alt="De-Bola" /> -->
   <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
   
  <!--Adding private contributions count to total commits count-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=De-Bola&count_private=true&theme=tokyonight" alt="De-Bola" />
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=De-Bola&count_private=true&theme=tokyonight" alt="De-Bola" />-->
 <!--
 ![Bola's GitHub stats](https://github-readme-stats.vercel.app/api?username=De-Bola&hide=contribs,prs&theme=tokyonight)-->
 <!--Showing icons
